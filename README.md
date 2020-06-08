@@ -11,7 +11,7 @@ Course: https://www.origamid.com/curso/css-grid-layout/
 ## 🖼 Layout
 <img src="/img/layout.png">
 
-📝 License
+## 📝 License
 The project is under MIT license. For more details, visit [license](LICENSE).
 
 Created with 💙 by [Rafael Simionato](https://github.com/rafaasimi/)
