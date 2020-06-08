@@ -1,4 +1,4 @@
-<p align="center"><img src="img/icones/cervo.svg" width="150px"></p>
+<p align="center"><img src="img/icones/leao.svg" width="150px"></p>
 <h1 align="center">Wildbeast<br>
 <img src="https://img.shields.io/github/repo-size/rafaasimi/Wildbeast-Origamid"> <img src="https://img.shields.io/github/last-commit/rafaasimi/Wildbeast-Origamid"> <img src="https://img.shields.io/github/license/rafaasimi/Wildbeast-Origamid"></h1>
 
